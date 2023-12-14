@@ -1,4 +1,5 @@
 DriveConnect
+
 Write an application which simulates the communication between drivers, as follows:
 1. The information about all registered drivers is in a text file. Each Driver has a name (string), a current location (latitude and longitude) and a score. This file is manually created and it is read when the application starts.
 2. Another file contains road reports. Each Report has a description, the reporter-the name of the driver who reported it, the exact location (latitude and longitude) and a validation status (bool). These are read when the application starts.
@@ -14,6 +15,6 @@ Observations
 3. If you do not read the data from file, you will receive 50% of functionalities 3, 4, 5 and 6.
 You are allowed to use Qt Designer.
 You are allowed to use the following sites for documentation, but nothing else:
--http://doc.qt.io/qt-6/
-- http://en.cppreference.com/w/
--http://www.cplusplus.com/
+http://doc.qt.io/qt-6/
+http://en.cppreference.com/w/
+http://www.cplusplus.com/
